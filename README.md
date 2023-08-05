@@ -1,4 +1,3 @@
-# Topic-Modeling-BBC-News-Articles
 # Topic Modeling on BBC News Articles
 
 ## Table of Contents
@@ -19,6 +18,3 @@ In this project, we aim to discover and analyze significant themes across variou
 
 ## Dataset Description
 The dataset consists of news articles categorized into different segments. The segments are business, entertainment, politics, sports, and technology. The raw data is available in [data folder](data/) in .txt format. We will create an aggregate dataset by combining all the news articles for topic modeling.
-
-## Installation
-1. Clone this repository to your local machine.
