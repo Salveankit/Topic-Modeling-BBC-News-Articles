@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*puU4pAFD4a_HHEwVcKNjKQ.jpeg)
+![logo]([https://miro.medium.com/v2/resize:fit:1400/format:webp/1*puU4pAFD4a_HHEwVcKNjKQ.jpeg](https://images.pexels.com/photos/518543/pexels-photo-518543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))
 # Topic Modeling on BBC News Articles
 
 ## Table of Contents
