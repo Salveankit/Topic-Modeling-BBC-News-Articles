@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fbbc-news-text-classification-a1b2a61af903&psig=AOvVaw0wNYGifCdpw_4IzLpo7Uoy&ust=1691303410454000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiYw6nyxIADFQAAAAAdAAAAABAE)
+![logo](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*puU4pAFD4a_HHEwVcKNjKQ.jpeg)
 # Topic Modeling on BBC News Articles
 
 ## Table of Contents
