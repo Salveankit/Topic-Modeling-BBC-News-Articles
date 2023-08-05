@@ -8,7 +8,7 @@
 - [Project Overview](#project-overview)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 This repository contains the code and documentation for a project on topic modeling using unsupervised machine learning algorithms on a collection of BBC news articles. The goal of this project is to identify major themes or topics present in the news articles and assess their correspondence with the different tags available.
